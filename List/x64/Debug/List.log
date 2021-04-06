@@ -1,0 +1,60 @@
+﻿开始生成时的环境:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\Administrator\AppData\Roaming
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = DESKTOP-KTVSUQL
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\Administrator
+JAVA_HOME = D:\JAVA\java_jdk
+LOCALAPPDATA = C:\Users\Administrator\AppData\Local
+LOGONSERVER = \\DESKTOP-KTVSUQL
+MOZ_PLUGIN_PATH = C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\Administrator\OneDrive
+OS = Windows_NT
+Path = C:\Program Files (x86)\NetSarang\Xshell 6\;D:\JAVA\java_jdk\bin;C:\Program Files (x86)\Python38-32\Scripts\;C:\Program Files (x86)\Python38-32\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 5.5\bin;G:\MATLAB\runtime\win64;G:\MATLAB\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\dotnet\;G:\Ancaconda;G:\Ancaconda\Library\mingw-w64\bin;G:\Ancaconda\Library\usr\bin;G:\Ancaconda\Library\bin;G:\Ancaconda\Scripts;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;G:\Download\Microsoft VS Code\bin;C:\Users\Administrator\.dotnet\tools
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PkgDefApplicationConfigFile = C:\Users\Administrator\AppData\Local\Microsoft\VisualStudio\16.0_c68bfc9f\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 5e03
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PT7HOME = F:\downloads\Cisco Packet Tracer 7.0
+PUBLIC = C:\Users\Public
+ServiceHubLogSessionKey = 83628832
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\ADMINI~1\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\ADMINI~1\AppData\Local\Temp
+USERDOMAIN = DESKTOP-KTVSUQL
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-KTVSUQL
+USERNAME = Administrator
+USERPROFILE = C:\Users\Administrator
+VisualStudioDir = C:\Users\Administrator\Documents\Visual Studio 2019
+VisualStudioEdition = Microsoft Visual Studio Community 2019
+VisualStudioVersion = 16.0
+VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 2052
+VSSKUEDITION = Community
+windir = C:\WINDOWS
+
+  List.cpp
+D:\C++练习\List\List.cpp(13,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++练习\List\List.cpp(18,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++练习\List\List.cpp(192,1): warning C4326: “main”的返回类型应为“int”而非“void”
