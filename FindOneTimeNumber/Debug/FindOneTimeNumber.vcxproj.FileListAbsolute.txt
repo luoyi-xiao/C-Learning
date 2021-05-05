@@ -1,0 +1,2 @@
+D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\Debug\FindOneTimeNumber.exe
+D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\Debug\FindOneTimeNumber.pdb
