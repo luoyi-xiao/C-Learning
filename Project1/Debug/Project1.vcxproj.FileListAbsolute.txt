@@ -1,0 +1,2 @@
+D:\CaddaddTest\CObjectiveLearning\Project1\Debug\Project1.exe
+D:\CaddaddTest\CObjectiveLearning\Project1\Debug\Project1.pdb
