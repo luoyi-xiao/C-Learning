@@ -36,7 +36,7 @@ ProgramW6432 = C:\Program Files
 PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
 PT7HOME = F:\downloads\Cisco Packet Tracer 7.0
 PUBLIC = C:\Users\Public
-ServiceHubLogSessionKey = B8AAE959
+ServiceHubLogSessionKey = D80EFE63
 SESSIONNAME = Console
 SystemDrive = C:
 SystemRoot = C:\WINDOWS
@@ -57,6 +57,8 @@ VSLANG = 2052
 VSSKUEDITION = Community
 windir = C:\WINDOWS
 
-  string.cpp
-D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\string.cpp(50,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  onenumberOJ.cpp
+D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\onenumberOJ.cpp(51,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\onenumberOJ.cpp(53,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\onenumberOJ.cpp(69,27): warning C4018: “<”: 有符号/无符号不匹配
   FindOneTimeNumber.vcxproj -> D:\CaddaddTest\CObjectiveLearning\FindOneTimeNumber\Debug\FindOneTimeNumber.exe

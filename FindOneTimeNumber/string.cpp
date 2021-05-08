@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 //#include<string.h>
 #include<algorithm>
 #pragma warning(disable:4996)
@@ -51,4 +51,4 @@ void main()
 	String s("abc");
 	String s1("xyz");
 	s1 = s;
-}
+}*/
